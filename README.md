@@ -71,6 +71,7 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+    
 ## Table of Contents:
 - [Description](#description)
 - [User Story](#user-story)
@@ -82,7 +83,8 @@ THEN I exit the application, and the HTML is generated
 - [Contribution](#contribution)
 - [Contact Information](#contact-information)
 - [Live Result Page](#live-result-page)
-
+    
+    
 ## Walkthrough Video: 
 <a href="https://watch.screencastify.com/v/g5VTC1011imFkKS0vZSX">
   <img alt="walkthrough video" src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
