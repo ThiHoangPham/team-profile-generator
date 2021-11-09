@@ -12,6 +12,9 @@
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
   <a href="#">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white0"target="_blank" />
+  <a href="#">
+  <img alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank" />
+  <a href="#">
   <br>
   <a href="https://www.buymeacoffee.com/adampham123">
   <img alt="donate buy me a coffee" src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=flat-square" target="_blank" />
@@ -70,15 +73,19 @@ THEN I exit the application, and the HTML is generated
 ```
 ## Table of Contents:
 - [Description](#description)
-- [Tasks](#tasks)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Walkthrough Video](#walkthrough-video)
+- [Installation](#installation)
+- [Test Instructions](#test-instructions)
 - [Contributor](#contributor)
 - [Contribution](#contribution)
 - [Contact Information](#contact-information)
-- [Live Demo](#live-demo)
+- [Live Result Page](#live-result-page)
 
 ## Walkthrough Video: 
 <a href="https://watch.screencastify.com/v/g5VTC1011imFkKS0vZSX">
-  <img alt="Twitter: AdamThaiHoang1" src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  <img alt="walkthrough video" src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank" />
   </a>
 
 ## Installation:
