@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator-adam-homework10",
+  "version": "1.0.0",
+  "description": "Object-Oriented Programming : Build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest-cli": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiHoangPham/team-profile-generator-adam-homework10.git"
+  },
+  "author": "Thai Hoang (Adam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThiHoangPham/team-profile-generator-adam-homework10/issues"
+  },
+  "homepage": "https://github.com/ThiHoangPham/team-profile-generator-adam-homework10#readme"
+}
