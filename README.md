@@ -85,7 +85,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Walkthrough Video: 
 <a href="https://watch.screencastify.com/v/g5VTC1011imFkKS0vZSX">
-  <img alt="walkthrough video" src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank" />
+  <img alt="walkthrough video" src="https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
 
 ## Installation:
