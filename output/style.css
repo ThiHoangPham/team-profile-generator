@@ -1,0 +1,42 @@
+h1 {
+    Font-Family: 'Merriweather', Serif;
+    font-size: 45px;
+    letter-spacing: 5px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+span {
+    opacity: 0.6;
+}
+
+body {
+    Font-Family: 'Muli', Sans-Serif;
+    background-color: #ffffff;
+    color: #ffffff
+    ;
+}
+
+.jumbotron {
+    background: #e84756;
+}
+
+.employee-card {
+    box-shadow: 5px 3px 9px 1px #465E73;
+}
+
+.card-header {
+    background: #0077f7;
+}
+
+.card-body {
+    color: #465E73;
+}
+
+a {
+    color: #0077f7
+    ;
+}
