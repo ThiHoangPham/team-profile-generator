@@ -26,7 +26,7 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg?style=flat-square" target="_blank" />
   </a>
   <a href="#">
-  <img alt="fork" src="https://img.shields.io/github/forks/ThiHoangPham/updated-team-profile-generator-adam-homework10.svg?style=flat-square" target="_blank" />
+  <img alt="fork" src="https://img.shields.io/github/forks/ThiHoangPham/team-profile-generator-adam-homework10.svg?style=flat-square" target="_blank" />
   <a href="#">
   <img alt="repo star" src="https://img.shields.io/github/stars/ThiHoangPham/team-profile-generator-adam-homework10?color=%23ff00bf&style=flat-square" target="_blank" />
   </a>
